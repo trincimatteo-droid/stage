@@ -20,3 +20,4 @@ while num2 == "2"  and num4 != 0:
       num1 = float(num1)
       print("Il numero in Fahrenheit è:", int(num1 * 9.0/5.0) + 32, "°F")    
       num4 = int(input("Inserisci 0 per uscire, un altro numero per continuare: "))   
+      #prova modifica 1
